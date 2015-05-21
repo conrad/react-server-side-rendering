@@ -1,0 +1,23 @@
+{
+  "name": "server-side-react-renderer",
+  "version": "0.0.1",
+  "description": "Description of the module/application",
+  "author": "Matt Conrad <mmconrad@gmail.com>",
+  "private": true,
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/conrad/react-server-side-renderer"
+  },
+  "keywords": [],
+  "dependencies": {
+    "express": "^4.12.4",
+    "jade": "^1.9.2",
+    "node-jsx": "^0.13.3",
+    "react": "^0.13.3"
+  },
+  "devDependencies": {},
+  "preferGlobal": true,
+  "analyze": true,
+  "license": "MIT"
+}
